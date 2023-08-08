@@ -1,2 +1,3 @@
-# Sandeepani-Gyan-kunj
-This is my first code on git and am going to learn as much as I can with it
+# Sandeepani-Gyan-Kunj
+This is a project of building a site of School having normal features.
+This site is completely designed and programmed by me.
